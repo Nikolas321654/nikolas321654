@@ -1,16 +1,16 @@
-## Hi there 👋
+## Portfolio (Mykola Biliavskyi) 💻
 
-<!--
-**Nikolas321654/nikolas321654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Contact: kolia.biliavskiy@gmail.com
 
-Here are some ideas to get you started:
+## 🎓 Kyiv Polytechnic Institute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**First year:**
+
+**Laboratory work 📋**
+
+- https://github.com/Nikolas321654/Graph_characteristics_and_connectivity
+- https://github.com/Nikolas321654/Graphical_representation_of_graphs
+
+## Project
+
+💾 https://github.com/Nikolas321654/Hooli_Commander
