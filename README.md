@@ -1,5 +1,7 @@
 ## Portfolio (Mykola Biliavskyi) 💻
 
-📧 Contact: kolia.biliavskiy@gmail.com
+🎓 Student of Kyiv Polytechnic Institute:
+- Computer systems software engineering
 
-## 🎓 Kyiv Polytechnic Institute
+
+📧 Contact: kolia.biliavskiy@gmail.com
