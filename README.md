@@ -27,8 +27,9 @@ I am a 2nd-year Software Engineering student at **Kyiv Polytechnic Institute (KP
 
 ### 🚀 Key Projects
 
-* **[Hooli_library](https://github.com/nikolas321654/Hooli_library)** – A comprehensive library management system built with the .NET ecosystem.
+* **[Hooli Music](https://github.com/Nikolas321654/Hooli_Music)** – A music management with custom playlists system, built with the .NET ecosystem.
 * **Hooli Commander** – A lightweight file manager developed using Vanilla JavaScript.
+* **[Own_Library](https://github.com/Nikolas321654/DotNet_Development_Cource_Uni)** – WPF-based desktop application for managing a personal library of books and a wishlist.
 
 ---
 
