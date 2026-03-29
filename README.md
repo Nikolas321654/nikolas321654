@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/University-Kyiv%20Polytechnic%20Institute-blue?style=flat-square&logo=academia" alt="KPI">
   <img src="https://img.shields.io/badge/Major-Software%20Engineering-green?style=flat-square" alt="Software Engineering">
-  <img src="https://img.shields.io/badge/English-B1%20Level%20(In%20Progress)-orange?style=flat-square" alt="English B1">
+  <img src="https://img.shields.io/badge/English-B2%20Level%20(In%20Progress)-orange?style=flat-square" alt="English B2">
 </p>
 
 ### 🎓 About Me
