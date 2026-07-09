@@ -7,7 +7,7 @@
 </p>
 
 ### 🎓 About Me
-I am a 2nd-year Software Engineering student at **Kyiv Polytechnic Institute (KPI)**. I am passionate about building scalable applications, exploring computer science theory, and mastering system architecture.
+I am a 3nd-year Software Engineering student at **Kyiv Polytechnic Institute (KPI)**. I am passionate about building scalable applications, exploring computer science theory, and mastering system architecture.
 
 * 🏗️ **Core Interests:** Software Design and Architecture, .NET platform, and Computer Networking.
 * 🧮 **Academic Focus:** Computer Science theory.
@@ -19,9 +19,9 @@ I am a 2nd-year Software Engineering student at **Kyiv Polytechnic Institute (KP
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | `C#`, `JavaScript / TypeScript`, `SQL` |
-| **Frameworks** | `.NET` (ASP.NET Core, MAUI, WPF), `Vue.js` (basic knowledge) |
+| **Frameworks** | `.NET` (ASP.NET Core, EF, WPF), `Angular` |
 | **Databases** | `PostgreSQL` |
-| **Systems & Tools** | `Linux (Ubuntu/Debian)`, `Windows`, `Docker`, `Git`, `Postman` |
+| **Systems & Tools** | `Linux (Ubuntu/Debian)`, `Windows`, `Docker`, `Git`, `Postman`, `Terraform`, `Azure` |
 
 ---
 
@@ -35,7 +35,7 @@ I am a 2nd-year Software Engineering student at **Kyiv Polytechnic Institute (KP
 
 ### 📫 Connect with me
 * 📧 **Email:** [kolia.biliavskiy@gmail.com](mailto:kolia.biliavskiy@gmail.com)
-* 📧 **Telegram:** Nikalas1
+* 📧 **Telegram:** @Nikalas1
 ---
 
 <p align="center">
