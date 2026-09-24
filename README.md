@@ -10,7 +10,7 @@
 I am a 3nd-year Software Engineering student at **Kyiv Polytechnic Institute (KPI)**. I am passionate about building scalable applications, exploring computer science theory, and mastering system architecture.
 
 * 🏗️ **Core Interests:** Software Design and Architecture, .NET platform, and Computer Networking.
-* 🧮 **Academic Focus:** Computer Science theory.
+* 🧮 **Academic Focus:** Computer Science.
 
 ---
 
@@ -19,8 +19,8 @@ I am a 3nd-year Software Engineering student at **Kyiv Polytechnic Institute (KP
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | `C#`, `JavaScript / TypeScript`, `SQL` |
-| **Frameworks** | `.NET` (ASP.NET Core, EF, WPF), `Angular` |
-| **Databases** | `PostgreSQL` |
+| **Frameworks** | `.NET` (ASP.NET Core, EF, WPF), `Vue` |
+| **Databases** | `PostgreSQL, MSSQL` |
 | **Systems & Tools** | `Linux (Ubuntu/Debian)`, `Windows`, `Docker`, `Git`, `Postman`, `Terraform`, `Azure` |
 
 ---
